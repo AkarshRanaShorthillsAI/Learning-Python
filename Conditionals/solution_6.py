@@ -6,5 +6,5 @@ elif distance <= 15:
     transport = "Bike"
 else:
     transport = "Car"
-
+ 
 print("AI recommends you the transport of: ", transport)

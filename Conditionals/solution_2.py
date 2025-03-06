@@ -7,4 +7,4 @@ if day == "Wednesday":
     # price = price - 2
     price -= 2
 
-print("Ticket price for you is $",price)
+print("Ticket price for you is $",price) 
